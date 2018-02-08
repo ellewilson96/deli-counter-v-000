@@ -13,5 +13,3 @@ end
 def take_a_number(array)
   array.push
 end
-
-insert index+1 into the same index as name 
