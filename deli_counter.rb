@@ -1,11 +1,11 @@
 # Write your code here.
 katz_deli = []
 
-def line(array)
+def line(katz_deli)
   if array.length == 0
     puts "The line is currently empty."
   else
-    array.insert(first, 1.)
+    array(katz_deli)
     puts "The line is currently: #{array.join(", ")}"
   end
 end
