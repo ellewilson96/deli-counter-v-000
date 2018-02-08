@@ -10,6 +10,6 @@ def line(katz_deli)
   end
 end
 
-def take_a_number(array)
-  array.push
+def take_a_number(katz_deli)
+  katz_deli.push
 end
